@@ -54,7 +54,8 @@ footer {
 
 footer a {
   display: inline-block;
-  margin-left: 15px;
+  margin-top: 15px;
+  margin-bottom: 0px;
   width: 23%;
   color: rgba(229, 179, 16, 0.7);
 }
